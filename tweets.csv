@@ -1,0 +1,502 @@
+Date,Posted By,Posted By Profile,Tweet URL,Content,Tags,Comments
+2022-11-25 16:39:44+00:00,WikiResearch,https://twitter.com/WikiResearch/,https://twitter.com/WikiResearch/status/1596181856663310338,"""KnowGL: Knowledge Generation and Linking from Text""  a tool that allows converting text into structured relational data for given Knowledge Graphs such as @Wikidata.
+
+(Rossiello et al, 2022)
+
+paper: https://t.co/4JGmeKj6YG
+model:  https://t.co/8AY5SEwkqk.",,
+2022-11-10 17:46:34+00:00,namedgraph,https://twitter.com/namedgraph/,https://twitter.com/namedgraph/status/1590762857528164357,"It might be a good time to download your Twitter data.
+And while at it, why not convert it to RDF using JSON2RDF and SPARQL? :)
+Here are the instructions:
+https://t.co/BK2VvONe5J
+Improvements to the mapping query are welcome, as well as any analytical queries over the RDF output.",,
+2022-11-10 14:17:29+00:00,RIOJournal,https://twitter.com/RIOJournal/,https://twitter.com/RIOJournal/status/1590710237731790848,"‘Nature’s envelope’: David J Patterson @Sydney_Uni with a Forum paper: https://t.co/zqLkdC4O80 presenting a rhetorical device onto which #LifeSciences subdisciplines &amp; existing initiatives may be mapped, and key requirements for a comprehensive data infrastructure be derived.
+1/7",,
+2022-11-10 13:48:42+00:00,tlpcouvreur,https://twitter.com/tlpcouvreur/,https://twitter.com/tlpcouvreur/status/1590702994563436545,Holding +5kg of amazing &amp; vital knowledge of useful plants of mega biodiverse #Colombia! Presented by @MauricioDiazgra @KewScience at #XICCB2022 congress; with many other Colombian &amp; international colleagues. https://t.co/iawCWkrkgB congrats to the whole team!!!,,
+2022-11-10 09:59:25+00:00,leecronin,https://twitter.com/leecronin/,https://twitter.com/leecronin/status/1590645295251177472,This is not the first time I've been Assembly-trolled. The same lead author published this blog which even describes a made up conversation we had where I was offered help. https://t.co/p8MlooaNpD,,
+2022-11-09 18:14:32+00:00,lucaspdmedeiros,https://twitter.com/lucaspdmedeiros/,https://twitter.com/lucaspdmedeiros/status/1590407505150373889,"Great review about chaos in ecology!
+
+https://t.co/rrnoybDK2O",,
+2022-11-09 16:37:39+00:00,myrmoteras,https://twitter.com/myrmoteras/,https://twitter.com/myrmoteras/status/1590383123908661248,"#mademyday wow, Bat Health Foundation... https://t.co/b9k83nbcgp  #biodiversity",,
+2022-11-09 03:14:01+00:00,samwineburg,https://twitter.com/samwineburg/,https://twitter.com/samwineburg/status/1590180881800790016,"In an age of information overabundance, 
+critical ignoring is as important as critical thinking.",,
+2022-11-03 14:57:54+00:00,rmwaterhouse,https://twitter.com/rmwaterhouse/,https://twitter.com/rmwaterhouse/status/1588183693008719872,"An @F1000Research blog ""ELIXIR: connecting #biodiversity infrastructures and resources"" @ELIXIREurope https://t.co/sYWBZH6sWG",,
+2022-11-03 11:31:47+00:00,EPFLevents,https://twitter.com/EPFLevents/,https://twitter.com/EPFLevents/status/1588131824294891520,"Projection du documentaire ""Google connaît toute ma vie"" et table ronde avec @johanrochel, @smetille, @schradie, @le_science4all, @GregoireBarbey 📢Jeudi 10 novembre, 17h30 au Forum Rolex @EPFL (gratuit, sur inscription)👉https://t.co/Rounp63Y",,
+2022-11-02 21:57:17+00:00,JayPykw,https://twitter.com/JayPykw/,https://twitter.com/JayPykw/status/1587926850042355712,"Our crisprVerse paper is out in @NatureComms.
+
+We developed a one-stop shop CRISPR gRNA design tool that works with any nuclease and genome, and includes functionalities for CRISPRko, CRISPRa, CRISPRi, base editing, and RNA-editing.
+
+https://t.co/4fQPlVtDch",,
+2022-10-31 03:05:55+00:00,ChemConnector,https://twitter.com/ChemConnector/,https://twitter.com/ChemConnector/status/1586917355187310592,"I haven't had time to celebrate our paper about Wikipedia curation. We already have a backlog of 100s of new chemicals to work on as new chemicals get registered daily Here's the paper, with co-authors including  @egonwillighagen  and our curation team https://t.co/YEmqgFG7ek",,
+2022-10-30 19:08:18+00:00,andrewwhite01,https://twitter.com/andrewwhite01/,https://twitter.com/andrewwhite01/status/1586797159344652289,"Happy to announce new version of molbloom - v0.1.5🚀 Molbloom quickly checks if a compound is purchasable w/o internet. New version has bugfixes and new pre-compiled binaries for OS X, linux, and automatic download for large catalog.
+
+pip install -U molbloo",,
+2022-10-27 10:41:50+00:00,atomgraphhq,https://twitter.com/atomgraphhq/,https://twitter.com/atomgraphhq/status/1585582537547681793,"Good news everyone! https://t.co/FANbesANUv is back up with demo applications.
+We're eating our own dogfood—this website is running on the latest LinkedDataHub ?",,
+2022-10-27 10:31:27+00:00,openneurosci,https://twitter.com/openneurosci/,https://twitter.com/openneurosci/status/1585579923917373441,"our public call w/ @json_dirs on ""information systems, wikis and how to work together"", as part of our efforts to improve how we manage information about open projects. Loads of interesting ideas! worth a watch! https://t.co/IrchDQwGWL
+#openscience #neuroscience #openaccess
+/n",,
+2022-10-25 21:40:30+00:00,atomgraphhq,https://twitter.com/atomgraphhq/,https://twitter.com/atomgraphhq/status/1585023523097309184,https://t.co/2jclB4l5df,,
+2022-10-22 16:05:08+00:00,bobdc,https://twitter.com/bobdc/,https://twitter.com/bobdc/status/1583851959937032192,"New blog post tomorrow: Your own free, publicly available SPARQL endpoint (free as in tier).",,
+2022-10-21 12:37:02+00:00,mdancho84,https://twitter.com/mdancho84/,https://twitter.com/mdancho84/status/1583437200792117254,"Stop using boxplots...
+
+Use this plot instead.
+
+https://t.co/Xm98QHFVRD 
+
+#rstats #DataScience",,
+2022-10-21 12:27:27+00:00,bio_diverse,https://twitter.com/bio_diverse/,https://twitter.com/bio_diverse/status/1583434790438850560,"“I started off as a zoologist hugging trees and orangutans, but now I hug asset managers and bankers, because I realised we can’t save nature by field work alone” Andrew Mitchell
+
+Excellent article on Nature-related Financial Disclosures @TNFD_ 
+
+https://t.co/UjVMQMCiLj",,
+2022-10-20 03:03:45+00:00,Pdorrestein1,https://twitter.com/Pdorrestein1/,https://twitter.com/Pdorrestein1/status/1582930541464076288,"Are you looking for solutions that combine feature based molecular networking, ion identity mol networking, spectral matching, molecular formula and structural production etc here is a nice @ProjectJupyter notebook to merge. https://t.co/QnJ5rnC9qj @GNPS_UCSD @tilmweber",,
+2022-10-17 11:36:17+00:00,MarioKrenn6240,https://twitter.com/MarioKrenn6240/,https://twitter.com/MarioKrenn6240/status/1581972363620466688,"WUHUU - finally our ""SELFIES and the future of molecular string representations"" from a massive collaboration of 31 people has been published in @CellPressNews @Patterns_CP🤖
+
+https://t.co/K47nqAeTPL
+
+With 16 exciting open challenges at interface AI/material/molecular design 1/",,
+2022-10-17 11:24:12+00:00,rdmpage,https://twitter.com/rdmpage/,https://twitter.com/rdmpage/status/1581969322989101056,"A simple tool to find the DOI for a publication of a species name: https://t.co/UJ5uKYRdvb Type in a name, press “go” and with luck we find the paper and DOI.",,
+2022-10-13 01:34:00+00:00,remotelysense,https://twitter.com/remotelysense/,https://twitter.com/remotelysense/status/1580371240346210304,"New paper in @Nature: a new system for classifying any ecosystem on Earth. It fills a big gap and aims to support efforts by @redlisteco, @UNBiodiversity, @IPBES and to assess the status of the world's ecosystems. 
+https://t.co/YycuGYxcd3",,
+2022-10-12 15:47:56+00:00,bio_diverse,https://twitter.com/bio_diverse/,https://twitter.com/bio_diverse/status/1580223754135031809,"Draft global conservation goals under the CBD's Global Biodiversity Framework place a strong emphasis on connectivity.
+Planning protected area networks with ecological connectivity at the core can bolster new area-based commitments for biodiversity (eg. 30% x 2030).",,
+2022-10-12 15:47:55+00:00,bio_diverse,https://twitter.com/bio_diverse/,https://twitter.com/bio_diverse/status/1580223747444731904,"Here's a new one to read:
+Demystifying ecological #connectivity for actionable spatial conservation planning @Trends_Ecol_Evo https://t.co/Kf4ten29iA",,
+2022-10-12 13:57:07+00:00,thedataprof,https://twitter.com/thedataprof/,https://twitter.com/thedataprof/status/1580195865213677568,"Building a Dashboard web app in Python - Full @Streamlit Tutorial
+
+In this video, I show you how to build a #Dashboard in #Python using the Streamlit library.
+
+📺 Watch https://t.co/tVpZwK3lhk
+🕹️ Demo (version 2) https://t.co/Wp02sbrSnz
+📝 Code (version 2) https://t.co/PGUItTB",,
+2022-10-12 12:27:36+00:00,pablolubroth,https://twitter.com/pablolubroth/,https://twitter.com/pablolubroth/status/1580173339116466176,read the full blog here: https://t.co/0z7scsu5mo,,
+2022-10-11 19:07:15+00:00,serasmann,https://twitter.com/serasmann/,https://twitter.com/serasmann/status/1579911526450094080,Exciting news in conservation science! Simple actions can help mitigate biodiversity decline at large scale. Nice work by researchers at ⁦@infofaunaCH⁩ and ⁦@WSL_research⁩  https://t.co/RKMK408pa4,,
+2022-10-09 08:54:19+00:00,compoundchem,https://twitter.com/compoundchem/,https://twitter.com/compoundchem/status/1579032499115593728,"October is #NationalAppleMonth, and apples mean cider — here’s a look at some of the chemistry behind its flavour, aroma and acidity ?",,
+2022-10-08 18:08:38+00:00,allison_horst,https://twitter.com/allison_horst/,https://twitter.com/allison_horst/status/1578809608818130945,"purrr::pluck() lets you deftly index into data structures 🦎 Fun to use, bonus you can say ""purrrpluck purrrpluck purrrpluck"" the whole time 👍
+
+https://t.co/Ok0mWch9",,
+2022-10-08 16:35:15+00:00,gouttegd,https://twitter.com/gouttegd/,https://twitter.com/gouttegd/status/1578786108045131776,"Presenting the Ontology Development Kit (ODK), a toolkit for building, maintaining, and standardizing biomedical ontologies. https://t.co/PHHpmZg9Nt",,
+2022-10-07 07:31:01+00:00,david_das_neves,https://twitter.com/david_das_neves/,https://twitter.com/david_das_neves/status/1578286760748060672,"Check this fantastic tool to visualize  SQL queries. Damn - I would have needed it 13 years ago ;-)
+[Tool] SQLFlow
+https://t.co/nQ1URashEf 
+
+#SQL #Visualization #Coding #Dev #DB #Data",,
+2022-10-07 03:25:28+00:00,GeneCollector,https://twitter.com/GeneCollector/,https://twitter.com/GeneCollector/status/1578224966730153984,"https://t.co/G7BdToLiuH
+Here is an alternative to BioRender that is TRULY FREE and actively maintained. Over 1500 vectorized images sorted by license type (all creative commons or MIT). Fully editable icons and soon they will launch an Inkscape library.",,
+2022-10-06 11:09:32+00:00,TheIMSF,https://twitter.com/TheIMSF/,https://twitter.com/TheIMSF/status/1577979366197305348,"Excellent article timed nicely for the 100 years anniversary of Aston's Nobel prize.
+
+The discovery of mass spectrometry: https://t.co/DHQWk6K8Wy",,
+2022-10-05 21:24:30+00:00,DataChaz,https://twitter.com/DataChaz/,https://twitter.com/DataChaz/status/1577771738926092311,"Looking to understand or explore some JSON? Just paste or upload to visualize it as a graph with https://t.co/n3VlemmLRY! 🤩
+
+Kudos to @aykutsarach for creating this gem in #opensource! ",,
+2022-10-03 23:02:22+00:00,ricard_sole,https://twitter.com/ricard_sole/,https://twitter.com/ricard_sole/status/1577071591250620417,"Is evolution predictable? Would the biosphere look the same if we re-played the tape of evolution, as conjectured by SJ Gould? Here's an excellent paper on this challenging problem by Michael Lässig, Ville Mustonen and Aleksandra M. Walczak https://t.co/JesV0AjlZh",,
+2022-10-03 19:08:00+00:00,TDataScience,https://twitter.com/TDataScience/,https://twitter.com/TDataScience/status/1577012612553908226,"Erdogan Taskesen explains how to create interactive, stand-alone, and visually attractive charts that are built on the graphics of d3 javascript (d3js) but configurable with Python.  https://t.co/kkOu1Alll0",,
+2022-10-03 13:33:39+00:00,razoralign,https://twitter.com/razoralign/,https://twitter.com/razoralign/status/1576928469589454849,GraphBio: A shiny web app to easily perform popular visualization analysis for omics data https://t.co/kP5V6SKkEn,,
+2022-09-30 12:52:25+00:00,MetExplore,https://twitter.com/MetExplore/,https://twitter.com/MetExplore/status/1575830928626270208,"Want to use #MetExplore to map your #metabolomics and #lipidomics data? 
+
+Here is a step by step tutorial with example dataset:
+https://t.co/2eV1ymmZnF
+
+Only the tip of the iceberg but already a good start!",,
+2022-09-30 07:26:02+00:00,LudoCottret,https://twitter.com/LudoCottret/,https://twitter.com/LudoCottret/status/1575748791231459328,"How to infer metabolic regulations from a metabolic network and omics data? 
+Joint work with Kerian Thuillier and A. Siegel from @DylissTeam ; @loicpauleve from Labri, Bordeaux @CarolineBaroukh from #LIPME, Toulouse ; and A. Bockmayr from FU, Berlin.  
+https://t.co/e7FHSSlTTV",,
+2022-09-29 18:04:46+00:00,BursteinLab,https://twitter.com/BursteinLab/,https://twitter.com/BursteinLab/status/1575547145062522882,"Can we ""read"" microbial genomes using language models? We explore this idea in our paper ""Deciphering microbial gene function using natural language processing"" https://t.co/3QrlNdnVuH ?",,
+2022-09-29 15:54:42+00:00,AndrewBarnas,https://twitter.com/AndrewBarnas/,https://twitter.com/AndrewBarnas/status/1575514414916448256,"Ecologists: most of our approaches to statistics are wrong and our resulting inferences are invalid.
+
+Also Ecologists:",,
+2022-09-28 13:21:13+00:00,chemRxivBiochem,https://twitter.com/chemRxivBiochem/,https://twitter.com/chemRxivBiochem/status/1575113400870486016,"Discovering life’s directed metabolic (sub)paths to interpret biochemical markers using the DSMN
+https://t.co/DKmqAQQXDz 
+#chemrxiv_biochem",,
+2022-09-27 14:49:15+00:00,datamol_io,https://twitter.com/datamol_io/,https://twitter.com/datamol_io/status/1574773168769798147,"If you find Datamol useful, please give us a star on GitHub! 
+
+https://t.co/Wx26YK9gO4
+
+(9/9)",,
+2022-09-27 14:06:10+00:00,MetExplore,https://twitter.com/MetExplore/,https://twitter.com/MetExplore/status/1574762324249960448,"📰 Article out, great collab. with @imperialcollege @tebbels @cwieder_ R. Lai &amp; in particular Jake Bundy for leading the work! @NathaliePoupin @clement_frainay @PabloRMier @vinson6431 @JulietteBioinfo 
+
+https://t.co/Rd00cwmHH7
+
+⚠️ Pathway analysis has to be taken with care",,
+2022-09-25 12:22:24+00:00,KirkDBorne,https://twitter.com/KirkDBorne/,https://twitter.com/KirkDBorne/status/1574011435856035840,"Tiny #Python Projects — 21 small fun projects for Python beginners designed to build programming skill, teach new algorithms and techniques: https://t.co/dl40lMwmQT
+————
+#Coding #BigData #DataScience #AI #MachineLearning #DataScientists #100DaysOfCode",,
+2022-09-25 08:49:48+00:00,paulfharrison,https://twitter.com/paulfharrison/,https://twitter.com/paulfharrison/status/1573957934404362240,"I've added displaying linked selections to langevitour, using the crosstalk package. #rstats
+
+https://t.co/Ee3uk4zw0m",,
+2022-09-22 22:45:23+00:00,BrianKCoombes,https://twitter.com/BrianKCoombes/,https://twitter.com/BrianKCoombes/status/1573081049126551556,I saw this on LinkedIn and thought it was a handy guide for people like me who have trouble remembering the antibiotic compendium (credit: Atul Kumar).,,
+2022-09-22 15:12:10+00:00,wbstakeholders,https://twitter.com/wbstakeholders/,https://twitter.com/wbstakeholders/status/1572966996597444608,"We thank @AlbinPCLarsson for presenting us Snowman [1], a static site generator for SPARQL backends. Take a look at awesome Snowman projects [2-3] &amp; tutorial [4].
+
+[1] https://t.co/Ugc5qH8moV
+[2] https://t.co/rRRnkQxH17
+[3] https://t.co/S2zgnzbKNE
+[4] https://t.co/atxZf9gZSD",,
+2022-09-22 03:35:58+00:00,KirkDBorne,https://twitter.com/KirkDBorne/,https://twitter.com/KirkDBorne/status/1572791791199346688,"Tiny #Python Projects — 21 small fun projects for Python beginners designed to build programming skill, teach new algorithms and techniques: https://t.co/nzJpUIDo1N
+————
+#Coding #BigData #DataScience #AI #MachineLearning #DataScientists #100DaysOfCode",,
+2022-09-21 09:28:58+00:00,atomgraphhq,https://twitter.com/atomgraphhq/,https://twitter.com/atomgraphhq/status/1572518237291843584,"LinkedDataHub 3.2.14 released! Now with WKT geometry support in map layout mode 🗺️
+https://t.co/4BfvqpHkL",,
+2022-09-21 07:39:39+00:00,LguSpree,https://twitter.com/LguSpree/,https://twitter.com/LguSpree/status/1572490728043089921,"Hey, have a look at SPARQL Anything https://t.co/nfTqqORg4v, a system for querying any file format (including CSV) with SPARQL. It also implements strategies for querying huge files by reducing memory consumption via source slicing.",,
+2022-09-21 06:16:09+00:00,philipvollet,https://twitter.com/philipvollet/,https://twitter.com/philipvollet/status/1572469712751149059,"Parsr transforms PDF, documents, and images into enriched structured data
+
+https://t.co/KedO3YkbTy",,
+2022-09-20 15:25:43+00:00,BeniddirM,https://twitter.com/BeniddirM/,https://twitter.com/BeniddirM/status/1572245630503755776,https://t.co/q5YK3Mc6ON,,
+2022-09-20 15:19:42+00:00,KirkDBorne,https://twitter.com/KirkDBorne/,https://twitter.com/KirkDBorne/status/1572244114829373443,"10-page PDF covers a semester's worth of introductory probability —⭐️The best and only #Probability Cheat Sheet that you may ever need: https://t.co/NFtjOnR9lN
+by @wzchen &amp; @stat110 📊📈
+————
+#abdsc #BigData #DataScience #Statistics #StatisticalLiteracy #Mathematics #DataLitera",,
+2022-09-20 13:18:32+00:00,NatureFoodJnl,https://twitter.com/NatureFoodJnl/,https://twitter.com/NatureFoodJnl/status/1572213620351832066,"September issue: Food system transitions, #Foodsystems diplomacy, #MachineLearning for #foodsecurity, upcycling #food system by-products, global #dietary quality, #ultraprocessed #diet patterns, #nutrients from #farm to #fork, #water #compost...and more!
+
+https://t.co/AHBj3emWq1",,
+2022-09-20 11:15:11+00:00,juansequeda,https://twitter.com/juansequeda/,https://twitter.com/juansequeda/status/1572182581315244032,"My Trip report of the @dagstuhl seminar Knowledge Graphs and their Role in the Knowledge Engineering of the 21st Century
+
+Two main takeaways: 1) Users and Methodologies, &amp; 2) Language Models. Plenty of observations and open questions 
+
+https://t.co/tEPGbaoXGT",,
+2022-09-20 08:24:28+00:00,anabenlop,https://twitter.com/anabenlop/,https://twitter.com/anabenlop/status/1572139619050741760,Complex agricultural landscapes host more biodiversity than simple ones: A global meta-analysis | Proceedings of the National Academy of Sciences https://t.co/ZQGwu77Xam,,
+2022-09-17 14:54:21+00:00,MEVidalSerodio,https://twitter.com/MEVidalSerodio/,https://twitter.com/MEVidalSerodio/status/1571150569666121729,"Our paper on ""Scaling up knowledge graph creation to large and heterogeneous data sources"" has been published. @samstwitting @blackjack2055  @TIB_SDM @l3s_luh @TIBHannover  https://t.co/U8pRQzB6SM",,
+2022-09-16 07:36:05+00:00,ontopicvkg,https://twitter.com/ontopicvkg/,https://twitter.com/ontopicvkg/status/1570677889007513606,"In this new article on mapping patterns @SarahKom and @bcogrel link nodes in the graph using a many-to-many relationship tables in the database.
+
+https://t.co/5vyWsmUutw
+
+Combine it with the first two patterns and create a solid #knowledgegraph from your DB.
+
+#rdf
+#sparql
+#r2rml",,
+2022-09-15 22:49:51+00:00,cthoyt,https://twitter.com/cthoyt/,https://twitter.com/cthoyt/status/1570545458526978049,"yup, scientific mentors don't usually care about good code. neither do journals. so it's awfully hard for trainees to figure this stuff out.
+
+here's my science-ready python package template https://t.co/Pmbznl4fVE but still I think it needs tons more effort to hand hold users",,
+2022-09-12 22:02:21+00:00,lubianat,https://twitter.com/lubianat/,https://twitter.com/lubianat/status/1569446342937972737,"Technical query of the day:
+
+Items about cells that are not classified (P31 or P279) on Wikidata 
+
+https://t.co/zOkV2VUNtB
+
+(based on a query by @Tagishsimon )
+
+#Wikidata #SPARQL",,
+2022-09-11 11:58:02+00:00,MohsineMahraj,https://twitter.com/MohsineMahraj/,https://twitter.com/MohsineMahraj/status/1568931874499616774,What to include in a research proposal. Qtd. @PhDVoice @ThePhDPlace @Phd_jeu,,
+2022-09-09 17:31:18+00:00,aaranged,https://twitter.com/aaranged/,https://twitter.com/aaranged/status/1568290965814931468,The Lothbrok approach for SPARQL Query Optimization over Decentralized Knowledge Graphs @chraebe et al. - cc: @BranaRakic et al. https://t.co/TLwGPwP23z,,
+2022-09-09 11:06:02+00:00,NatureEcoEvo,https://twitter.com/NatureEcoEvo/,https://twitter.com/NatureEcoEvo/status/1568194009289396226,"Life through the lens of metabolism 
+https://t.co/YFjAEDQwU1 
+@eme_laura and @cstairs review Nick Lane's 'Transformer: The Deep Chemistry of Life and Death'",,
+2022-09-08 08:44:41+00:00,WikiResearch,https://twitter.com/WikiResearch/,https://twitter.com/WikiResearch/status/1567796052991819778,"""AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL""
+
+(Xiong et al, 2022)
+
+paper: https://t.co/flEnCng5RF
+code and data: https://t.co/LR2SrWRtrX",,
+2022-09-02 12:00:20+00:00,RinkeHoekstra,https://twitter.com/RinkeHoekstra/,https://twitter.com/RinkeHoekstra/status/1565670959679508487,"Just published our #linkeddata extension for VSCode. Visualize, transform, validate and query your #rdf directly on your files in VSCode. Enjoy 😊 https://t.co/Mkj6vdlMfB #elsevie",,
+2022-08-31 12:32:19+00:00,wendympatterson,https://twitter.com/wendympatterson/,https://twitter.com/wendympatterson/status/1564954233945858048,"The topic: Who owns science?
+Q1: What are the data companies, posing as publishers, collecting? @greenarchives1 - not just article tracking but tracking our careers, deciding ultimately who gets promotions and grants. More in her book ""Data Cartels""",,
+2022-08-31 04:53:52+00:00,researchremix,https://twitter.com/researchremix/,https://twitter.com/researchremix/status/1564838863373479936,love you made this open!  would you be up for submitting it to https://t.co/3u4ADD1z6R to help it be discovered in the future?,,
+2022-08-30 23:34:45+00:00,lubianat,https://twitter.com/lubianat/,https://twitter.com/lubianat/status/1564758554405486592,"Just found @cthoyt's https://t.co/BHlzTmkams, awesome!",,
+2022-08-30 18:11:08+00:00,choldgraf,https://twitter.com/choldgraf/,https://twitter.com/choldgraf/status/1564677112358993920,"✨We're sharing a grant narrative✨
+
+We recently submitted a grant to @cziscience to provide infrastructure, guidance, and training in cloud workflows for communities in Latin America and Africa.
+
+- Blog post: https://t.co/KGppuLr4dw
+- Zenodo entry: https://t.co/R6if02lBXp
+
+🧵",,
+2022-08-30 12:50:36+00:00,linkedktk,https://twitter.com/linkedktk/,https://twitter.com/linkedktk/status/1564596446921359360,"Great post by @katsi111 on the three layers in a Knowledge Graph. I tried to explain this to customers but failed so far to formulate it properly, so thanks :)
+Also mentions @semanticarts work &amp; gist upper ontology.
+https://t.co/bu6G27qu2f",,
+2022-08-28 21:29:30+00:00,bobdc,https://twitter.com/bobdc/,https://twitter.com/bobdc/status/1564002259037573120,New blog entry: Learn RDF in Y minutes  https://t.co/83K7ODvzIV,,
+2022-08-25 20:17:14+00:00,OlorenAI,https://twitter.com/OlorenAI/,https://twitter.com/OlorenAI/status/1562896908959358976,"We're releasing Oloren ChemEngine (oce), an open-source Python library for molecular property prediction, uncertainty quantification, interpretability, and more.
+
+You can create state-of-the-art molecular property predictors in &lt; 10 lines of code.
+
+https://t.co/4lPgbAjXzJ",,
+2022-08-22 17:22:09+00:00,rdmpage,https://twitter.com/rdmpage/,https://twitter.com/rdmpage/status/1561765682378932226,Exploring  the ways taxonomic databases link to the literature.,,
+2022-08-22 08:08:18+00:00,sagaOptics,https://twitter.com/sagaOptics/,https://twitter.com/sagaOptics/status/1561626302490320896,"Hummingbird hawkmoth, Taubenschwänzchen, Macroglossum stellatarum.
+
+#lepidoptera #portrait",,
+2022-08-20 17:20:42+00:00,OACerebro,https://twitter.com/OACerebro/,https://twitter.com/OACerebro/status/1561040543135809536,"Guía rápida para escribir un proyecto de investigación.
+
+♾️ https://t.co/mQY3ppq8m0",,
+2022-08-16 13:53:24+00:00,fastworkers6,https://twitter.com/fastworkers6/,https://twitter.com/fastworkers6/status/1559538822546747392,The Paperpot can reduce planting time by 88% https://t.co/Dzq1qZz77t,,
+2022-08-12 15:46:50+00:00,dendronhq,https://twitter.com/dendronhq/,https://twitter.com/dendronhq/status/1558117817769406465,"This week's entry in the Dendron Reading Series - Things I've learned about writing good READMEs by @hackergrrl 
+
+&lt;https://t.co/oJKUGb56Kz&gt;
+
+Claim: READMEs matter - some tips on writing them well",,
+2022-08-10 19:11:51+00:00,AndreasPeschel1,https://twitter.com/AndreasPeschel1/,https://twitter.com/AndreasPeschel1/status/1557444635257176067,"We urgently need solutions:
+https://t.co/jBAicgPFTW",,
+2022-08-10 04:58:00+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1557229755140907008,"Dragon Ascending Over Mount Fuji, by Suzuki Gako, 19h century
+
+#nihonga",,
+2022-08-08 18:58:56+00:00,skepteis,https://twitter.com/skepteis/,https://twitter.com/skepteis/status/1556716607875039233,"""Around the world, flammable invasive grasses are increasing the risks of damaging wildfires""
+
+https://t.co/j7PEjNGcZ8",,
+2022-08-08 12:27:59+00:00,EvolvedBiofilm,https://twitter.com/EvolvedBiofilm/,https://twitter.com/EvolvedBiofilm/status/1556618224250376192,"See our @mbiojournal commentary with Francesca Sartor on rhytmic colony patterns and the conceptual requirements for proving the presence of a prokaryotic circadian clock behind pattern formation
+
+/on the paper by @lj_kahl et al from @laahrs
+
+#circadian
+
+https://t.co/6Wwv79x7xv",,
+2022-08-06 17:42:00+00:00,gunsnrosesgirl3,https://twitter.com/gunsnrosesgirl3/,https://twitter.com/gunsnrosesgirl3/status/1555972470217359360,"A Lego submarine that actually works and has depth control
+
+Source of video: Brick Experiment Channel: 
+https://t.co/NMov2JKeS4",,
+2022-08-06 07:04:31+00:00,Shipei_Xing,https://twitter.com/Shipei_Xing/,https://twitter.com/Shipei_Xing/status/1555812042186977280,"We confidently discovered &gt;5,000 database-unarchived molecular formulae using a bottom-up MS/MS interrogation strategy. Another step towards illuminating the “dark matter” in untargeted #metabolomics! 😎Check out our preprint version here!  https://t.co/7H90dBV3m",,
+2022-08-06 06:24:32+00:00,ypriverol,https://twitter.com/ypriverol/,https://twitter.com/ypriverol/status/1555801983080140800,For those teaching computational proteomics: Nice plot of Dalton vs ppm error by @RalfGabriels https://t.co/FPRdE4WC78,,
+2022-08-04 11:01:25+00:00,wikidata,https://twitter.com/wikidata/,https://twitter.com/wikidata/status/1555146884720857089,Check out the current devt. state of the upcoming REST API for Wikibase: https://t.co/xBCins1hSn This will make it easier to access Wikidata’s data programmatically so that more people can build great applications on top of our data. Give us feedback here: https://t.co/yJDv87jGzQ,,
+2022-08-04 08:00:31+00:00,darwintreelife,https://twitter.com/darwintreelife/,https://twitter.com/darwintreelife/status/1555101358960828418,"👀 Here's a REALLY cool new feature on the #DarwinTreeOfLife #DataPortal from the team @emblebi...
+
+You can search by species to see exactly where our samples were collected🌳🌊
+
+@EBPgenome @thembauk @TheBotanics @KewScience @NHM_Science @GenomeWytham
+
+https://t.co/9I3pSfO",,
+2022-08-04 07:25:31+00:00,JannisBorn,https://twitter.com/JannisBorn/,https://twitter.com/JannisBorn/status/1555092553967538179,"New feature in #paperscraper (0.2.4), our package for paper keyword searches &amp; scraping publication metadata.
+ 
+Now you can download PDFs, either for individual papers or for scraped metadata dumps 🚀🎉
+
+Install via pip. Code: https://t.co/qHTLT3dusq
+Thx for suggestions @skepte",,
+2022-08-03 10:06:43+00:00,GBIF,https://twitter.com/GBIF/,https://twitter.com/GBIF/status/1554770731497668608,"New in @MBMGjournal: Introducing guidelines for publishing DNA-derived occurrence data through biodiversity data platforms—congratulations to all the coauthors!
+ https://t.co/HazZcZ5bq3",,
+2022-08-02 09:48:16+00:00,jokergoo_gu,https://twitter.com/jokergoo_gu/,https://twitter.com/jokergoo_gu/status/1554403701317685254,"In this new paper, I described comprehensively the current features of ComplexHeatmap. Thank the executive editor @YongXinLiu7 from @iMetaScience journal for the paper invitation!
+
+https://t.co/WpO8dZxq2R",,
+2022-08-02 02:56:37+00:00,bio_diverse,https://twitter.com/bio_diverse/,https://twitter.com/bio_diverse/status/1554300107025178625,"Climate Endgame: Exploring catastrophic #climatechange scenarios https://t.co/GugYzG5crs
+Fear is a double-edged sword: A call for robust risk assessment of high-impact, low-likelihood climate scenarios (social fragility, mass mortality). Will this help focus on solutions? Maybe",,
+2022-08-01 14:01:00+00:00,PLOSCompBiol,https://twitter.com/PLOSCompBiol/,https://twitter.com/PLOSCompBiol/status/1554104915319918592,"Introducing Graphia, big graph analytics made fast and scalable. Explore any data in a hypothesis-free manner by generating stunning visualisations of data structure, then use some of the many built in tools to perform analyses.
+https://t.co/zePf68hvjA",,
+2022-08-01 01:09:45+00:00,TahlanLab,https://twitter.com/TahlanLab/,https://twitter.com/TahlanLab/status/1553910825781547008,"Glad to see this out finally. 
+Analysis of Streptomyces Volatilomes Using Global Molecular Networking Reveals the Presence of Metabolites with Diverse Biological Activities | Microbiology Spectrum https://t.co/lfTkr2okiD",,
+2022-07-29 21:37:43+00:00,bio_diverse,https://twitter.com/bio_diverse/,https://twitter.com/bio_diverse/status/1553132688806215680,"What is #information? 
+It is the basis of physical, syntactic, semantic, and semiotic facets of life, evolution and society.
+
+Enjoying this book @Sara_Imari - a compelling condensation of the key open and transdisciplinary questions and challenges explored by 18 rich chapters.",,
+2022-07-27 13:44:21+00:00,guardian,https://twitter.com/guardian/,https://twitter.com/guardian/status/1552288788378013696,"James Lovelock, creator of Gaia hypothesis, dies on 103rd birthday https://t.co/CP3mEV1LY1",,
+2022-07-11 20:28:17+00:00,leecronin,https://twitter.com/leecronin/,https://twitter.com/leecronin/status/1546592234199519236,Assembly theory helps you tell the difference between things that are living &amp; dead. This is the first quantitative way to find life… https://t.co/IeSvI6sNsb,,
+2022-07-11 14:19:00+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1546499299541786624,"Evening at Tagonoura by Kawase Hasui, 1940
+
+#shinhanga",,
+2022-07-07 14:13:11+00:00,JOSS_TheOJ,https://twitter.com/JOSS_TheOJ/,https://twitter.com/JOSS_TheOJ/status/1545048283554254852,Just published in JOSS: '`pygetpapers`: a Python library for automated retrieval of scientific literature' https://t.co/BcwFr0mk5m,,
+2022-07-07 11:18:53+00:00,MagnusManske,https://twitter.com/MagnusManske/,https://twitter.com/MagnusManske/status/1545004421725167617,"""Orthogonal"" @wikidata Recent Changes, where you can query for items with specific changes (statement with property added, label in language removed, etc)
+
+https://t.co/SHPeqxkpLG",,
+2022-07-07 07:59:35+00:00,biocurator,https://twitter.com/biocurator/,https://twitter.com/biocurator/status/1544954265873125377,500CHF prizes for 2 outstanding biocurators - Will you nominate someone - or yourself - in their early or advanced career. Easy to do - just write a 250 word max description of nominee Deadline 15 July. See https://t.co/eECH6Ebtew  @emblebi @NCBI @news4GO @ISBSIB  @uniprot,,
+2022-07-05 06:31:19+00:00,datapatterns,https://twitter.com/datapatterns/,https://twitter.com/datapatterns/status/1544207276965212161,Proxy URIs - How do we deal with lack of standard identifiers for third-party resources? https://t.co/yHjzMi5FMr,,
+2022-07-05 06:12:00+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1544202414978244608,"Buddhist Layman, 1573-1615",,
+2022-07-04 18:54:52+00:00,_ZoeyJones_,https://twitter.com/_ZoeyJones_/,https://twitter.com/_ZoeyJones_/status/1544032010032799745,I've never felt more stupid! @PhDVoice @AcademicChatter #research #socialwork #socialscience #ipa #help,,
+2022-07-04 05:33:16+00:00,biorxiv_evobio,https://twitter.com/biorxiv_evobio/,https://twitter.com/biorxiv_evobio/status/1543830280141770752,The cost of information acquisition by natural selection  https://t.co/xgAbCceLYA #biorxiv_evobio,,
+2022-07-03 02:33:32+00:00,thedataprof,https://twitter.com/thedataprof/,https://twitter.com/thedataprof/status/1543422659936980992,Read more about it here in this blog https://t.co/s5eadZVZVL,,
+2022-07-02 18:31:23+00:00,datapatterns,https://twitter.com/datapatterns/,https://twitter.com/datapatterns/status/1543301322656477184,Reified Statement - How can we make statements about statements? https://t.co/Ch8m9seL9z,,
+2022-07-02 14:56:29+00:00,ange_cibrian,https://twitter.com/ange_cibrian/,https://twitter.com/ange_cibrian/status/1543247242714292225,I am *elated* to see our #anthropology+#biology #genomics+#history collaboration consolidated into a book on #human interactions with #cycads - #ethnoecology *Under the Shade of Thipaak* https://t.co/FwIn7ttKI9,,
+2022-07-02 13:34:21+00:00,matthen2,https://twitter.com/matthen2/,https://twitter.com/matthen2/status/1543226572592783362,"give each pixel a random Pokemon type, and then battle pixels against their neighbors, updating each pixel with the winning type (using the Pokemon type chart)
+
+we quickly see areas of fire &gt; water &gt; grass &gt; fire, electric sweeping over, ground frontiers taking over etc etc",,
+2022-07-01 15:37:56+00:00,NIH_CommonFund,https://twitter.com/NIH_CommonFund/,https://twitter.com/NIH_CommonFund/status/1542895286888108032,Are you a metabolomics researcher? Our #metabolomics program investigators developed a knowledgebase for prioritizing unknown #MassSpectra for subsequent #CompoundIdentification. Check out the article: https://t.co/GRW5eFuPFL,,
+2022-07-01 13:13:45+00:00,ontopicvkg,https://twitter.com/ontopicvkg/,https://twitter.com/ontopicvkg/status/1542858999305048065,"Ontopic Studio, https://t.co/Mzm2ba5rja,  would do the job for comfortable defining the rule, a.k.a mappings, for transforming SQL to RDF.",,
+2022-07-01 12:02:46+00:00,pubchem,https://twitter.com/pubchem/,https://twitter.com/pubchem/status/1542841137865674753,Did you know you can use semantic technologies with PubChem data through PubChemRDF? Learn more:  https://t.co/HgN0q4mDhd,,
+2022-06-30 12:01:17+00:00,met4j,https://twitter.com/met4j/,https://twitter.com/met4j/status/1542478375993987073,"Good news if you want to analyse the topology of metabolic networks: you can now try met4j, a Java library for developers... and an application toolbox for others: https://t.co/sBy9YmVuKh.  All feedbacks are welcome !
+
+@metexplore @clement_frainay @LouisonFresnais @LudoCottret",,
+2022-06-29 20:15:00+00:00,The_Tidge_Lab,https://twitter.com/The_Tidge_Lab/,https://twitter.com/The_Tidge_Lab/status/1542240234703831043,@stickermule made these and they were fast and easy!!! if anyone wants discount codes just let me know  🤓,,
+2022-06-28 11:00:02+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1541738188330377218,"Dragons in the Clouds, after Wang Ruoshui, by Kano Seisen'in Osanobu, early 19th century
+
+#kanoschool",,
+2022-06-25 18:34:26+00:00,egonwillighagen,https://twitter.com/egonwillighagen/,https://twitter.com/egonwillighagen/status/1540765376941764609,don't tell anyone... otherwise everyone writes great grants and the competition/selection doesn't work anymore,,
+2022-06-25 16:57:34+00:00,LearningSPARQL,https://twitter.com/LearningSPARQL/,https://twitter.com/LearningSPARQL/status/1540740997587431424,"""LIPID MAPS® Lipidomics Gateway was created in 2003 via an NIH “Glue Grant” to provide access to lipid nomenclature, databases, tools, protocols, standards, tutorials, meetings, publications, and other resources and serving the international lipid research community.""",,
+2022-06-24 14:27:06+00:00,linkedktk,https://twitter.com/linkedktk/,https://twitter.com/linkedktk/status/1540340744925462528,"Excel provides ways to integrate external data sources and auto update it, for example RDF via SPARQL.
+Our @zazukocom colleague @benjaminchild3 created a demo repository for you in case you want to use this within your organization 👩‍💻
+Repo: https://t.co/hwXPTEUW",,
+2022-06-23 08:34:01+00:00,Bicikl_H2020,https://twitter.com/Bicikl_H2020/,https://twitter.com/Bicikl_H2020/status/1539889499148550144,"COME ON! It's time to submit your Expression of Interest. We're sure there are many exciting biodiversity data-related projects going on in the community, don't be shy 😳 , read here 👇 
+
+https://t.co/mIBZsESElg
+#BiCIKL_H20",,
+2022-06-22 17:33:01+00:00,franckgiacomoni,https://twitter.com/franckgiacomoni/,https://twitter.com/franckgiacomoni/status/1539662758681096192,Don't hesitate to visit our GitHub repo https://t.co/cBFpCc6ZGf and the diseasesChem Forum WebApp https://t.co/9cCd6CptZ2,,
+2022-06-22 15:46:34+00:00,HubrichFlorian,https://twitter.com/HubrichFlorian/,https://twitter.com/HubrichFlorian/status/1539635967107244034,"So happy to see this out now🎉🎉🎉 thanks to all the colleagues and friends that made this happen, especially the one and only @Lcs_Paoli 🚀 Incredible! https://t.co/BGJGHRIqy7 @serina_robinson @piel_lab @Sunagaw",,
+2022-06-22 14:33:26+00:00,rodluger,https://twitter.com/rodluger/,https://twitter.com/rodluger/status/1539617561800744960,"Hey science twitter: announcing the new release of showyourwork!, a workflow management tool for open source scientific articles.
+
+https://t.co/kLT6ZXVsNm
+
+1/6",,
+2022-06-22 09:56:22+00:00,jjjvanderhooft,https://twitter.com/jjjvanderhooft/,https://twitter.com/jjjvanderhooft/status/1539547835913457664,Give #FORVM a try! 😎 https://t.co/RLBhMBnb4C #MetSoc2022 @MetabolomicsSoc #Valencia 😎 🌞 #computational #metabolom,,
+2022-06-20 21:02:00+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1538990572920356867,"Pine Tree and Snow by Suzuki Kiitsu, 19th century
+
+#rimpa",,
+2022-06-20 05:35:59+00:00,HaznedarogluLab,https://twitter.com/HaznedarogluLab/,https://twitter.com/HaznedarogluLab/status/1538757535225749511,"A true milestone in algal biotechnology! Featured in June 2022 cover of @NatureBiotech, Jester et al., demonstrated first large-scale application of Spirulina as a biomanufacturing platform for oral delivery of an antibody targeting campylobacter. Congrats to whole team ?",,
+2022-06-17 16:43:52+00:00,wildtypeMC,https://twitter.com/wildtypeMC/,https://twitter.com/wildtypeMC/status/1537838448740077572,"Can we all just take a second and appreciate this figure?
+
+Austin et al. 2008. NatChemBiol.
+https://t.co/XeRdpnqVld
+
+Seen in @EvoDivMet's presentation on evolution of secondary metabolism at #LatAmGenomeMining",,
+2022-06-17 14:33:30+00:00,gray_alasdair,https://twitter.com/gray_alasdair/,https://twitter.com/gray_alasdair/status/1537805642815229952,The @FAIRplus_eu Cookbook also contains @BioSchemas markup to make #FAIR recipes more #Findable presented by @Phil_at_OeRC at the @AlanTuringInsti #knowledgegraph #meetup,,
+2022-06-16 18:16:00+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1537499245967818753,"Evening Glow at Namamugi, Yokohama, by Tsuchiya Koitsu, 1931
+
+#shinhanga",,
+2022-06-16 14:37:33+00:00,MKoutrouli,https://twitter.com/MKoutrouli/,https://twitter.com/MKoutrouli/status/1537444271942356992,“Our NORMA paper just got released. One can mow modify a network’s layout taking i to account custom annotated groups. Paper link: https://t.co/nr1FKDqgFi”,,
+2022-06-16 07:15:00+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1537332899967541248,"Snowy Peak with Cranes by Yokoyama Taikan, 1958
+
+#nihonga",,
+2022-06-15 20:25:40+00:00,skepteis,https://twitter.com/skepteis/,https://twitter.com/skepteis/status/1537169488881360896,https://t.co/vnkQDiFQ6X might be of use ?,,
+2022-06-15 07:27:26+00:00,MetExplore,https://twitter.com/MetExplore/,https://twitter.com/MetExplore/status/1536973641161789440,"🆕 PeakForest: a multi-platform digital infrastructure for interoperable metabolite spectral data and metadata management. Out in @metabolomics. #openSource #NMR #LCMS #GCMS ... Deploy your own #FAIR spectral library.
+Congrats @nilspaulhe and @franckgiacomoni and all #MetaboHUB!",,
+2022-06-14 07:21:37+00:00,egonwillighagen,https://twitter.com/egonwillighagen/,https://twitter.com/egonwillighagen/status/1536609789551296512,"I think I spotted chem2bio2rdf spotted on one of the slides #2022ICCS 
+
+That would be work from team David Wild from 2010 in @jcheminf: https://t.co/vUowo2zC9e",,
+2022-06-13 21:45:43+00:00,darwintreelife,https://twitter.com/darwintreelife/,https://twitter.com/darwintreelife/status/1536464860808196098,"Did you watch #DarwinTreeOfLife on @BBCNews at 10?
+
+You can still catch up on @BBCiPlayer - and watch out for more tomorrow too🧬👀
+
+So great to see the work @thembauk @OxfordBiology @GenomeWytham @SangerToL @sangerinstitute and across the project getting nationwide coverag",,
+2022-06-13 18:54:52+00:00,qiime2,https://twitter.com/qiime2/,https://twitter.com/qiime2/status/1536421865031315456,"Exciting new QIIME 2 feature: Generate executable scripts from @qiime2 results created by yourself or others, to reproduce analyses or generate ""#bioinformatics #reproducibility supplements"" for your study, with Provenance Replay:
+
+https://t.co/JmbmR8VOqi
+
+https://t.co/RU4QjV9M3D",,
+2022-06-13 11:39:01+00:00,polak_jasper,https://twitter.com/polak_jasper/,https://twitter.com/polak_jasper/status/1536312177807736832,"Most companies suck at solving problems
+
+So they pay McKinsey $500K+ to do it for them
+
+Here’s their 7-step problem-solving framework (for free):",,
+2022-06-13 09:43:15+00:00,Pensoft,https://twitter.com/Pensoft/,https://twitter.com/Pensoft/status/1536283046827147264,"Our @Bicikl_H2020 team invites #researchers to address specific scientific / technical #biodiversity #data challenges by submitting an Expression of interest to our first OPEN CALL!
+Our aim is to better define the goals of participating infrastructures.
+ℹ️ https://t.co/uvBOmtCm01",,
+2022-06-11 15:57:31+00:00,KirkDBorne,https://twitter.com/KirkDBorne/,https://twitter.com/KirkDBorne/status/1535652459011575808,"[Free 439-page PDF download]
+Tiny #Python Projects — 21 small fun projects for Python beginners designed to build programming skill, teach new algorithms and techniques: https://t.co/gBVowUlAdv
+————
+#Coding #BigData #DataScience #AI #MachineLearning #DataScientists #100DaysOfCode",,
+2022-06-11 08:13:39+00:00,ddomingof,https://twitter.com/ddomingof/,https://twitter.com/ddomingof/status/1535535720298946566,"OntoMerger: An Ontology Integration Library for Deduplicating and Connecting Knowledge Graph Nodes
+https://t.co/7SmVXhbADx",,
+2022-06-10 14:15:36+00:00,BiodiversityDT,https://twitter.com/BiodiversityDT/,https://twitter.com/BiodiversityDT/status/1535264420582109185,"Top European and global research infrastructures have come together to design and develop BioDT, a #digitaltwin prototype for the study and analysis of #biodiversity, in support of the #EUBiodiversity Strategy.
+Discover this exciting #HorizonEU project: https://t.co/yDWtUAnWgr",,
+2022-06-08 21:28:34+00:00,BeniddirM,https://twitter.com/BeniddirM/,https://twitter.com/BeniddirM/status/1534648606350876672,"Aciculitin D, a cytotoxic heterodetic cyclic peptide from a Poecillast... https://t.co/If7o8K5sys",,
+2022-06-08 13:18:48+00:00,RIOJournal,https://twitter.com/RIOJournal/,https://twitter.com/RIOJournal/status/1534525351497543681,"1/2
+Sumbitted to @ERC_Research, this Grant Proposal describes a novel conceptual framework for integrating #biotic interactions between #plants &amp; #mycorrhizal #fungi to explain the #ecosystem consequences of #biodiversity change.
+👉See: https://t.co/upvO7wDXZV @jes_hines @mrilli",,
+2022-06-08 08:08:02+00:00,marc_lelarge,https://twitter.com/marc_lelarge/,https://twitter.com/marc_lelarge/status/1534447143888596993,"𝗔 𝘀𝗵𝗼𝗿𝘁 𝗶𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗱𝗲𝗲𝗽 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗼𝗻 𝗴𝗿𝗮𝗽𝗵𝘀
+presenting techniques based on language model, Fourier analysis on graphs and message passing GNN with a focus o",,
+2022-06-07 08:53:00+00:00,JapanTraCul,https://twitter.com/JapanTraCul/,https://twitter.com/JapanTraCul/status/1534096071420284928,"Great Spotted Woodpecker on Japanese Cypress by Watanabe Seitei, ca. 1906
+
+#woodblockprint",,
+2022-06-07 02:05:22+00:00,hokusaiartbot,https://twitter.com/hokusaiartbot/,https://twitter.com/hokusaiartbot/status/1533993486873407488,Femenine wave #katsushikahokusai #ukiyoe https://t.co/cRW5EohckO,,
+2022-06-07 01:01:25+00:00,leecronin,https://twitter.com/leecronin/,https://twitter.com/leecronin/status/1533977396017258496,Finally it’s online: https://t.co/8rZi3sYuKu Assemblers assemble. @Sara_Imari,,
+2022-06-07 00:11:57+00:00,doctorow,https://twitter.com/doctorow/,https://twitter.com/doctorow/status/1533964946530357248,"It's hard to pin down the thesis of @jamesbridle's *Ways of Being,* out today in the US from @fsgbooks - it's a big, lyrical, strange and inspiring dive into the ""more than human world"" - encompassing the worldview of animals, ecosystems, and software.
+
+https://t.co/PZtl50MRzz 1/",,
+2022-06-04 19:12:56+00:00,ch402,https://twitter.com/ch402/,https://twitter.com/ch402/status/1533164918886703104,"The elegance of ML is the elegance of biology, not the elegance of math or physics.
+
+Simple gradient descent creates mind-boggling structure and behavior, just as evolution creates the awe inspiring complexity of nature.",,
+2022-06-04 17:46:19+00:00,bobdc,https://twitter.com/bobdc/,https://twitter.com/bobdc/status/1533143123710328832,"Besides having one of the greatest titles ever, this 1978 classic on data modeling has aged well enough that since I pulled it off the shelf recently my daughter has spent several hours reading it. And it's still available on Amazon!",,
+2022-06-03 17:26:59+00:00,kafedjiska,https://twitter.com/kafedjiska/,https://twitter.com/kafedjiska/status/1532775871400009729,"Do you struggle with writing down your scientific work? Here are some tips from me that have helped me write whole chapters in only a weekend and my master thesis in a week! 😅
+
+#WritingCommunity #AcademicTwitter #phdlife #phdvoice @AcademicChatter @PhDVoice @PhDinGerman",,
+2022-06-02 15:12:34+00:00,LabIkiam,https://twitter.com/LabIkiam/,https://twitter.com/LabIkiam/status/1532379654925045760,"#IkiamInvestiga | La caracterización de nuevas entidades químicas a partir de secreciones cutáneas poco estudiadas de la biodiversidad ecuatoriana, como B. picturata, representa una oportunidad sin precedentes para identificar candidatos para abordar preocupaciones globales, por",,
+2022-06-01 15:09:16+00:00,DataScixDesign,https://twitter.com/DataScixDesign/,https://twitter.com/DataScixDesign/status/1532016437467828224,"The Data Science by Design community is excited to release the Future of Data Science Anthology⚡️⚡️
+
+This book is a collaboration featuring data designers, scientists, and artists aimed to be both a call to action and vision for what data science can be. https://t.co/2AdyAM9LmA",,
+2022-05-30 17:44:22+00:00,ChiaraVanni5,https://twitter.com/ChiaraVanni5/,https://twitter.com/ChiaraVanni5/status/1531330691337789441,"Our work on the dark side of genomes and metagenomes is finally out on @eLife!! 
+
+https://t.co/eItRQI0bvQ
+
+Have a look at @mschecht_bio's thread for an overview of what AGNOSTOS unveils when analyzing genomic and metagenomic data.
+
+What is then AGNOSTOS? A 🧵
+
+1/",,
+2022-05-29 17:56:07+00:00,ontowonka,https://twitter.com/ontowonka/,https://twitter.com/ontowonka/status/1530971260049448961,Making your #ontology mapping nightmares disappear: Simple Standard for Sharing Ontological Mappings (SSSOM) https://t.co/EtJW1oFUdA @OBOFoundry @MonarchInit @OHDSI @HL7 @data2health @AMIAinformatics,,
+2022-05-29 15:09:38+00:00,CGollier,https://twitter.com/CGollier/,https://twitter.com/CGollier/status/1530929365957103620,"J'ai lu ce week-end la BD bestseller de Jancovici et Blain. Bonne combinaison de l'âpreté du propos jancovicien et de l'esprit plein d'humour de Blain. 
+
+Manque le tome 2, qui parle du politique, du social et de l'économique!",,
+2022-05-29 14:25:09+00:00,LearningSPARQL,https://twitter.com/LearningSPARQL/,https://twitter.com/LearningSPARQL/status/1530918170269208578,Cool to see SPARQL mentioned multiple times in a Nature article: https://t.co/YcJqOR7AF5,,
+2022-05-29 03:11:34+00:00,inforapid,https://twitter.com/inforapid/,https://twitter.com/inforapid/status/1530748656713859072,Created a #MindMap about #radioactive #radiation by importing from #WikiData with InfoRapid KnowledgeBase Builder. You can watch it in full detail at https://t.co/olLMvMlWk4,,
+2022-05-28 16:40:08+00:00,kerrymcphail1,https://twitter.com/kerrymcphail1/,https://twitter.com/kerrymcphail1/status/1530589752654635008,"Very interesting to find this large molecular family spread across Tolypocladium species. Tolypocladamides contain the Bmt residue previously only from cyclosporins. Companion paper from the NCI/Beutler group coming soon,
+https://t.co/hh6p78XJEl",,
+2022-05-26 04:34:16+00:00,Pdorrestein1,https://twitter.com/Pdorrestein1/,https://twitter.com/Pdorrestein1/status/1529682305328959489,"Here is a preview of our new tool, microbeMASST! https://t.co/90jUWQXKFc
+Users can search for known/unknown MS/MS spectra against a database of bacterial/fungal monocultures and map the results into a phylogenetic/taxonomic tree! We are looking to expand our tree 🦠?",,
+2022-05-22 15:31:29+00:00,bobdc,https://twitter.com/bobdc/,https://twitter.com/bobdc/status/1528398147864735751,"New blog entry: Generating websites with SPARQL and Snowman, part 1 (with @Rhizome 's excellent ArtBase SPARQL endpoint) https://t.co/O15n6hdy4X",,
+2022-05-19 12:37:01+00:00,LabSchulz,https://twitter.com/LabSchulz/,https://twitter.com/LabSchulz/status/1527267076779425792,"We discovered an unusal terpenoid modified at both ends in Heliconius erato butterflies, but not present in other heliconiines. See J. Nat. Prod.
+https://t.co/n1sgXMchzx 
+Maybe involved in chemical communication? More from Heliconius coming soon.
+@ChemEcol_org",,
+2022-05-19 09:00:01+00:00,aguentsch,https://twitter.com/aguentsch/,https://twitter.com/aguentsch/status/1527212467658452992,"The initiative for the digitisation of German herbaria launches a data portal based on ""GBIF hosted portal"" technology https://t.co/JjznMOZkZb. A big thank you to everyone who contributed to this!
+
+Press release (in German): https://t.co/JpUQE3Y8PH
+
+@GBIF @DiSSCoEU @NFDI4BioDiv",,
+2022-04-29 17:20:39+00:00,MindsDB,https://twitter.com/MindsDB/,https://twitter.com/MindsDB/status/1520090701484204038,"Machine Learning is simpler when in-Database. Just with SQL.
+https://t.co/KdQAkrIrYu",,
+2022-04-14 14:24:36+00:00,BroadhurstDavid,https://twitter.com/BroadhurstDavid/,https://twitter.com/BroadhurstDavid/status/1514610577137897474,How cool is this!?,,
+2022-04-05 01:18:38+00:00,MarioKrenn6240,https://twitter.com/MarioKrenn6240/,https://twitter.com/MarioKrenn6240/status/1511151290604298243,"SO excited to share this after 2.5y😃
+On Scientific Understanding with Artificial Intelligence: https://t.co/QVjkArtwQ6
+
+How can #AI go beyond ""numerics"" &amp; contribute to essential aim of science: Understanding?🧠🤖
+
+Its not a mere technical question but lies at❤️of Science
+
+1",,
+2022-03-01 20:17:01+00:00,WillMcCorki1,https://twitter.com/WillMcCorki1/,https://twitter.com/WillMcCorki1/status/1498754201693868033,"New molplotly release (v1.1.0) 📣
+- Plot multiple SMILES
+- Hoverbox transparency
+- Speed and memory improvements (images are now generated as SVGs)
+- Bug fixes :)
+
+Full changelog: https://t.co/4BZADaz7X",,
+2022-03-01 19:00:01+00:00,bittremieux,https://twitter.com/bittremieux/,https://twitter.com/bittremieux/status/1498734823514464260,"I am excited to present the GLEAMS deep neural network to embed millions of mass spectra at the @USHUPO 2022 conference in the ""Computational Proteomics: From Machine Learning to Human Insight"" session today.
+
+Slides: https://t.co/E7D60QMJEz
+Preprint: https://t.co/fMfJFf6huT",,
+2021-12-31 18:08:14+00:00,bobdc,https://twitter.com/bobdc/,https://twitter.com/bobdc/status/1476978518504480773,"New blog entry: 17 years of my web bookmarks, with metadata (featuring ""75 Bleeding-Edge Search Engines To Beat Google"", and more!) https://t.co/h1Q4BqF8k0",,
+2021-11-01 03:18:11+00:00,icymi_py,https://twitter.com/icymi_py/,https://twitter.com/icymi_py/status/1455011257384382465,"✍️📦 How and why we built a custom gradient boosted-tree package
+
+👤 Or Cohen, Lyft @lyft; Lyft Engineering @lyfteng 
+
+🔗 https://t.co/14X2IHay3n
+#python #datascie",,
+2021-10-28 16:25:01+00:00,wfondrie,https://twitter.com/wfondrie/,https://twitter.com/wfondrie/status/1453759719793852423,"Thanks! I host them for free using GitHub Pages: https://t.co/eIlv1YYbos
+
+There are a ton of ways to make browser-friendly slide decks. Here are two ways I've done it 🧵(1/3",,
+2021-10-28 15:02:47+00:00,MetExplore,https://twitter.com/MetExplore/,https://twitter.com/MetExplore/status/1453739026033229834,"Almost finished @AgenceRecherche @dfg_public  #MetClassNet mid-term report. So many achievements:
+✅Hired 4 talented young scientists
+✅Ecosystem of code https://t.co/Cj3BOli4qA ✅2 publications
+https://t.co/R58sNLYw9l
+https://t.co/9nI1KEIkqR
+✅First mutli-layer network",,
+2021-09-07 09:20:03+00:00,PastelBio,https://twitter.com/PastelBio/,https://twitter.com/PastelBio/status/1435170993551646724,Spectrum graph-based de-novo sequencing algorithm MaxNovo achieves high peptide identification rates in collisional dissociation MS/MS spectra | https://t.co/mUZNAsQPsn #proteomics,,
+2021-09-04 06:38:09+00:00,icymi_r,https://twitter.com/icymi_r/,https://twitter.com/icymi_r/status/1434043086565527552,"✍️🐧 parameterised penguins: How to use parameters and {purrr} to render many Rmd reports
+
+👤 A/Prof Jenny Richmond @jenrichmondphd  
+
+🔗 https://t.co/2JJ4z2xkeQ
+#rstats #datascie",,
+2021-09-03 14:07:35+00:00,BiswapriyaMisra,https://twitter.com/BiswapriyaMisra/,https://twitter.com/BiswapriyaMisra/status/1433793800195874820,"CAN NOT miss out on reading this NEW paper if you are doing/ planning #blood #plasma #serum #metabolomics!
+
+Paper in ABC :https://t.co/1aB8Lgo6zg from Rainer Lehmann!
+
+TO DO's &amp; DON'T DO's in #metabolomics discovery!
+What a resource!",,
+2021-09-01 03:17:35+00:00,patrickmineault,https://twitter.com/patrickmineault/,https://twitter.com/patrickmineault/status/1432905447946821635,I've written a booklet on creating good research code. Based on my experiences going from research to industry and research again. Releasing this semester. Looking for test readers. DM me!,,
+2021-08-27 16:23:11+00:00,LampsNetwork,https://twitter.com/LampsNetwork/,https://twitter.com/LampsNetwork/status/1431291212829495304,📢📢Estamos muy felices de anunciar nuestro primer encuentro virtual!  Regístrate en https://t.co/dvuPHjsV,,
+2021-08-27 09:44:20+00:00,marnixmedema,https://twitter.com/marnixmedema/,https://twitter.com/marnixmedema/status/1431190836289617923,"Within the next months, we will be organizing a set of annotathons to update the MIBiG repository for biosynthetic gene clusters with known products to a v3.0. If you would like to be part of the team and join these online, please DM me! https://t.co/mn4ZoKtw4v",,
+2021-08-21 11:53:10+00:00,markabelan,https://twitter.com/markabelan/,https://twitter.com/markabelan/status/1429048932575944706,Read more about this topic here: https://t.co/boBtA9sBOx,,
+2021-08-12 10:22:57+00:00,pschwllr,https://twitter.com/pschwllr/,https://twitter.com/pschwllr/status/1425764738005413890,"rxnfp (v0.1.0) is now compatible with the most recent @PyTorch and @huggingface transformers versions.
+
+https://t.co/QQwfIi5QSE
+@ForRxn @IBMResearch #opensource",,
+2021-07-08 18:20:38+00:00,jcamthrash,https://twitter.com/jcamthrash/,https://twitter.com/jcamthrash/status/1413201375870087168,"Mass spectrometry-based metabolomics: a guide for annotation, quantification and best reporting practices  https://t.co/YA9o328SjD",,
+2021-07-08 13:05:31+00:00,metabinfo,https://twitter.com/metabinfo/,https://twitter.com/metabinfo/status/1413122074445557761,"An Introduction to Best Practices in Processing Mass Spectrometry-Based Metabolomics Data
+July 15 @ 10:30 am - 12:00 pm
+https://t.co/cpE4fUKrJ4",,
+2021-07-01 04:52:12+00:00,icymi_py,https://twitter.com/icymi_py/,https://twitter.com/icymi_py/status/1410461210177413124,"📚🌍 Welcome to Reproducible Data Science — Reproducible Data Science + Python + Real-World Data
+
+👤 Valentin Danchev @valdanchev 
+
+🔗 https://t.co/GkTrRP0zrh
+#python #datasci",,
+2021-06-30 00:09:25+00:00,Antoine_Lovell,https://twitter.com/Antoine_Lovell/,https://twitter.com/Antoine_Lovell/status/1410027660470800384,Please feel free to use…..leaving it right here.,,
+2021-06-01 21:31:12+00:00,strnr,https://twitter.com/strnr/,https://twitter.com/strnr/status/1399840979851657222,"Muon: multimodal omics analysis framework https://t.co/x3E4tErEbW
+code https://t.co/t4kmWEvKWY
+docs https://t.co/e3DcXicTHK",,
+2020-10-27 15:30:13+00:00,NashTurley,https://twitter.com/NashTurley/,https://twitter.com/NashTurley/status/1321111970410598402,"A sneak peak of the Naturistic video on the science of #ZombieAnt that premiers tomorrow on YouTube, Wednesday 10AM Pacific, 1PM eastern.  
+https://t.co/kDVOQiZCiH",,
+2020-06-13 08:16:52+00:00,andrawaag,https://twitter.com/andrawaag/,https://twitter.com/andrawaag/status/1271718164242538496,Yet another of my observations on #iNaturalist (https://t.co/GH9yxytPTH) is not described on the English Wikipedia.,,
